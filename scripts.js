@@ -6,10 +6,6 @@ let rectRightX = 750;
 let rectRightXspeed = 5;
 
 
-
-
-
-
 window.onload = function(){
       myCanvas = document.getElementById("my-canvas");
       myCanvasContext = myCanvas.getContext("2d");
